@@ -1,5 +1,7 @@
 # Git
 
+![Be the tree](https://github.com/scotdalton/git/blob/master/baobab.jpg "Be the tree")
+
 ## Agenda
 
 1. Intro
